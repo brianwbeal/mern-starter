@@ -49,10 +49,3 @@ Each item card is rendered with a delete button to handle <code>DELETE</code> re
 ### Version
 
 1.0.0
-
-
-<style>
-  .img-wrap {
-    text-align: center;
-  }
-</style>
