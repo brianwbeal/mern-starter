@@ -4,9 +4,8 @@
 
 ### Overview
 
-<div class="img-wrap">
-  <img src="./mern-screencap.png">
-</div>
+<img src="./mern-screencap.png" style="display:inline-block;margin:auto;">
+
 App renders form and list of cards, each displaying the name of a corresponding <code>item</code> in the database.
 
 When the app renders, it uses <code>axios</code> to send a <code>GET</code> request to the database, and populate the list of items.
